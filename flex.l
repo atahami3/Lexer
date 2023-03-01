@@ -28,8 +28,3 @@ yyin = FilePointer;
 yylex();
 return 0;
 }
-
-//TO RUN CODE:
-//lex flex.l
-//gcc lex.yy.c
-//./a.out > output.txt
