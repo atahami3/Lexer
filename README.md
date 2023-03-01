@@ -3,7 +3,7 @@ and dividing them input into tokens
 
 ### How to run this program
 
-Run these commands in terminal to get started on Linux
+Run these commands in terminal to get started on Linux:
 
 ```
 sudo apt-get install flex
@@ -12,4 +12,4 @@ lex flex.l
 gcc lex.yy.c
 ./a.out > output.txt
 ```
-then open output.txt to view the output
+Then open output.txt to view the output
